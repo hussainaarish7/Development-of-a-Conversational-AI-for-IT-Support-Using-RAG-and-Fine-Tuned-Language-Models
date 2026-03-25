@@ -1,0 +1,23 @@
+Q: Why is my system slow?
+A: Check background processes, disk usage, and antivirus.
+
+Q: Internet not working
+A: Restart router and check network cables.
+
+Q: How to reset password?
+A: Use reset option in settings.
+
+Q: Software not opening
+A: Restart system or reinstall software.
+
+Q: Laptop overheating
+A: Clean vents and use cooling pad.
+
+Q: Printer not working
+A: Check drivers and connection.
+
+Q: WiFi connected but no internet
+A: Restart modem and check ISP.
+
+Q: Install software
+A: Download from official site and follow steps.
